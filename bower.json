@@ -1,12 +1,12 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "tachacoincore-lib",
+  "main": "./tachacoincore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://tachacoin.tech",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "TACHACOIN <foundation@tachacoin.tech>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your tachacoin project.",
   "moduleType": [
     "globals"
   ],
